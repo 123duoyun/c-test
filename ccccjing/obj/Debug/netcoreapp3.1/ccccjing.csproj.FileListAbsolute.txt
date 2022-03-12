@@ -1,0 +1,14 @@
+C:\Users\w3562\source\repos\ccccjing\ccccjing\bin\Debug\netcoreapp3.1\ccccjing.exe
+C:\Users\w3562\source\repos\ccccjing\ccccjing\bin\Debug\netcoreapp3.1\ccccjing.deps.json
+C:\Users\w3562\source\repos\ccccjing\ccccjing\bin\Debug\netcoreapp3.1\ccccjing.runtimeconfig.json
+C:\Users\w3562\source\repos\ccccjing\ccccjing\bin\Debug\netcoreapp3.1\ccccjing.runtimeconfig.dev.json
+C:\Users\w3562\source\repos\ccccjing\ccccjing\bin\Debug\netcoreapp3.1\ccccjing.dll
+C:\Users\w3562\source\repos\ccccjing\ccccjing\bin\Debug\netcoreapp3.1\ccccjing.pdb
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.csproj.AssemblyReference.cache
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.AssemblyInfoInputs.cache
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.AssemblyInfo.cs
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.csproj.CoreCompileInputs.cache
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.dll
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.pdb
+C:\Users\w3562\source\repos\ccccjing\ccccjing\obj\Debug\netcoreapp3.1\ccccjing.genruntimeconfig.cache
